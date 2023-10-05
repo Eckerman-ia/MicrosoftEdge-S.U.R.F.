@@ -7269,7 +7269,7 @@
               (this.speed = {
                 current: 6,
                 raw: 6,
-                max: 13,
+                max: 100,
                 accel: 0.025,
               }),
               (this.timer = {
